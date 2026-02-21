@@ -156,6 +156,10 @@ sales-forecasting-project/
 
 ├── Sample-Superstore.csv
 
+# User Interface:
+
+![image alt](https://github.com/SathishB-1/Sales_Forecasting_/blob/32de6ce2fec82ca8c8e661e810063bdef2e196c2/Screenshot%202026-02-16%20180335.png)
+
 # Key Learnings:
 
 Time-series data preparation
