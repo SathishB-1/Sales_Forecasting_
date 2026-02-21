@@ -159,6 +159,7 @@ sales-forecasting-project/
 # User Interface:
 
 ![image alt](https://github.com/SathishB-1/Sales_Forecasting_/blob/32de6ce2fec82ca8c8e661e810063bdef2e196c2/Screenshot%202026-02-16%20180335.png)
+![image alt](https://github.com/SathishB-1/Sales_Forecasting_/blob/44fd3603311fa8cdca0aea49edf1613b0e65694f/Screenshot%202026-02-16%20180344.png)
 
 # Key Learnings:
 
