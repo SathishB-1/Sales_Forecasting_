@@ -168,6 +168,18 @@ Model evaluation and interpretation
 
 Deploying ML models using Streamlit
 
+# Future Enhancements:
+
+Add confidence intervals to show best- and worst-case sales scenarios
+
+Support product-wise and region-wise forecasting
+
+Improve accuracy using advanced models like Prophet or LSTM
+
+Allow users to download forecast results as CSV
+
+Deploy the application to the cloud for wider business access
+
 # Conclusion:
 
 This project demonstrates how machine learning and time-series analysis can be applied to solve real-world business problems.
