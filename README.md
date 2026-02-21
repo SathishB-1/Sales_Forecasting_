@@ -160,6 +160,7 @@ sales-forecasting-project/
 
 ![image alt](https://github.com/SathishB-1/Sales_Forecasting_/blob/32de6ce2fec82ca8c8e661e810063bdef2e196c2/Screenshot%202026-02-16%20180335.png)
 ![image alt](https://github.com/SathishB-1/Sales_Forecasting_/blob/44fd3603311fa8cdca0aea49edf1613b0e65694f/Screenshot%202026-02-16%20180344.png)
+![image alt](https://github.com/SathishB-1/Sales_Forecasting_/blob/b7e3be153f3c4d2f80cff816d50c2971415d8a59/Screenshot%202026-02-16%20180352.png)
 
 # Key Learnings:
 
