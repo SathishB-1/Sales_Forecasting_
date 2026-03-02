@@ -173,6 +173,7 @@ SARIMA (Seasonal AutoRegressive Integrated Moving Average) was selected because:
 
 ## User Interface
 ![img alt](https://github.com/SathishB-1/Sales_Forecasting_/blob/3491532fb0867e957bef852ea37c6720cb3d212e/Screenshot%202026-03-02%20204754.png)
+![img alt](https://github.com/SathishB-1/Sales_Forecasting_/blob/af7066e6f6b00d6f29fac148a34d5b0ed85d2b1b/Screenshot%202026-03-02%20204817.png)
 
 ## Future Enhancements
 
